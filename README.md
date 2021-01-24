@@ -9,11 +9,11 @@ Hi I'm Haunted Bees.
 | [`Funeral Procession in Space`](https://github.com/HauntedBees/Funeral-Procession-in-Space) | [`Wheel of Slime`](https://github.com/HauntedBees/Wheel-of-Slime) | [`Undercooked`](https://github.com/HauntedBees/Undercooked) |
 | [ERZR](https://github.com/HauntedBees/EpicRetroZombiecraftRoyaleguelike) | [bang](https://github.com/HauntedBees/bang) | [SF Art Game](https://github.com/HauntedBees/SF-Art-Game) |
 
-| Website | *[Component Library](https://github.com/HauntedBees/bee-vue-gang)* |    |
+| Website |    |    |
 | ------- | -- | -- |
 | [BeeAPI](https://github.com/HauntedBees/BeeAPI) | [BeeQuestions](https://github.com/HauntedBees/BeeQuestions.Site) ([API](https://github.com/HauntedBees/BeeQuestions.API)) | [sonic](https://github.com/HauntedBees/Sonic.API) ([API](https://github.com/HauntedBees/Sonic.API)) |
 | [Food Portal](https://github.com/HauntedBees/FoodPortal.Site) | [Data Navigator](https://github.com/HauntedBees/Data-Navigator) | [Main Site](https://github.com/HauntedBees/HauntedBees.Site) |
 
-| Tools |    |
-| ----- | -- |
-| [Kelly](https://github.com/HauntedBees/Kelly) | [DataBee](https://github.com/HauntedBees/DataBee) |
+| Tools |    |    |
+| ----- | -- | -- |
+| [Kelly](https://github.com/HauntedBees/Kelly) | [DataBee](https://github.com/HauntedBees/DataBee) | [bee-vue-gang](https://github.com/HauntedBees/bee-vue-gang) |

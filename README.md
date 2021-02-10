@@ -1,6 +1,6 @@
 Hi I'm Haunted Bees.
 - 😄 Pronouns: he/him
-- 🔭 I’m currently working on [Uprooted](https://github.com/HauntedBees/Uprooted) and a website redesign.
+- 🔭 I’m currently working on [Uprooted](https://github.com/HauntedBees/Uprooted), a video game about throwing vegetables at start-up nerds.
 
 | Games | *Active* | `Game Jams` |
 | ----- | -------- | ----------- |

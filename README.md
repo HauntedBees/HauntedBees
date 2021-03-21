@@ -17,3 +17,4 @@ Hi I'm Haunted Bees.
 | Tools |    |    |
 | ----- | -- | -- |
 | [openraster-export](https://github.com/HauntedBees/openraster-export) | [DataBee](https://github.com/HauntedBees/DataBee) | [bee-vue-gang](https://github.com/HauntedBees/bee-vue-gang) |
+| [clamp-palette](https://github.com/HauntedBees/clamp-palette) | | |

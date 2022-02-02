@@ -14,9 +14,9 @@ Hi I'm Haunted Bees.
 | [BeeAPI](https://github.com/HauntedBees/BeeAPI) | [BeeQuestions](https://github.com/HauntedBees/BeeQuestions.Site) ([API](https://github.com/HauntedBees/BeeQuestions.API)) | [sonic](https://github.com/HauntedBees/Sonic.Site) ([API](https://github.com/HauntedBees/Sonic.API)) |
 | [Food Portal](https://github.com/HauntedBees/FoodPortal.Site) ([API](https://github.com/HauntedBees/BeeAPI/tree/main/Foodportal)) | [Data Navigator](https://github.com/HauntedBees/Data-Navigator) | [Main Site](https://github.com/HauntedBees/HauntedBees.Site) |
 
-| Godot Plugins |    |    |
-| ------------- | -- | -- |
-| [Virtual Keyboard + Daisywheel](https://github.com/HauntedBees/Godot-Virtual-Keyboard-and-Daisywheel) | [Action Buttons](https://github.com/HauntedBees/Godot-Input-Button-Plugin) | [Player Unhider](https://github.com/HauntedBees/Godot-Player-Unhider) |
+| Godot Plugins |    |    |    |    |
+| ------------- | -- | -- | -- | -- |
+| [Virtual Keyboard + Daisywheel](https://github.com/HauntedBees/Godot-Virtual-Keyboard-and-Daisywheel) | [Action Buttons](https://github.com/HauntedBees/Godot-Input-Button-Plugin) | [Player Unhider](https://github.com/HauntedBees/Godot-Player-Unhider) | [The Branch](https://github.com/HauntedBees/Godot-Branch-Plugin) | [Godot Accessibility Suite](https://github.com/HauntedBees/Godot-Accessibility-Suite/tree/main) |
 
 | Tools |    |    |    |
 | ----- | -- | -- | -- |

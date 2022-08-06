@@ -7,7 +7,7 @@ Hi I'm Haunted Bees.
 | *[Uprooted](https://github.com/HauntedBees/Uprooted)* | [Crop Drop](https://github.com/HauntedBees/CropDrop) | [Blockara](https://github.com/HauntedBees/Blockara) ([Steam](https://github.com/HauntedBees/BlockaraSteam)) |
 | [`Zenn Halsey Basesol '93`](https://github.com/HauntedBees/Sports-2-Jam) | [`Beegypt`](https://github.com/HauntedBees/EdutainmentForBees) | [Public Domains](https://github.com/HauntedBees/Public-Domains) |
 | [`Funeral Procession in Space`](https://github.com/HauntedBees/Funeral-Procession-in-Space) | [`Wheel of Slime`](https://github.com/HauntedBees/Wheel-of-Slime) | [`Undercooked`](https://github.com/HauntedBees/Undercooked) |
-| [ERZR](https://github.com/HauntedBees/EpicRetroZombiecraftRoyaleguelike) | [bang](https://github.com/HauntedBees/bang) | [SF Art Game](https://github.com/HauntedBees/SF-Art-Game) |
+| [`Sonic Shock`](https://github.com/HauntedBees/Out-of-Stock-Jam) | [bang](https://github.com/HauntedBees/bang) | [SF Art Game](https://github.com/HauntedBees/SF-Art-Game) |
 
 | Website |    |    |
 | ------- | -- | -- |
